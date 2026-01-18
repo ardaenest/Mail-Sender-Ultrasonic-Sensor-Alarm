@@ -12,8 +12,8 @@
 #define BUZZER_RES  8
 
 /* ---------- WIFI ---------- */
-const char* ssid = "aettel";
-const char* password = "12042206";
+const char* ssid = "WiFi_ssid";
+const char* password = "WiFi_password";
 
 /* ---------- EMAIL ---------- */
 #define AUTHOR_EMAIL "gönderici@gmail.com"
